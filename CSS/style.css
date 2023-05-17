@@ -124,7 +124,7 @@ header img{
 article .text {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     margin-top: 40px;
 }
 @media(max-width: 767px) {
@@ -165,8 +165,11 @@ article .text img{
     padding-top: 20px;
     margin-bottom: 0;
 }
+.devices .main-heading {
+    margin-bottom: 40px;
+}
 .container img {
-width: 80%;
+width: 78%;
 }
 @media(max-width: 767px) {
 .container img {
@@ -175,8 +178,8 @@ width: 80%;
 }
 }
 .features .main-heading {
-    margin-top: 50px;
-    margin-bottom: 80px;
+    margin-top: 60px;
+    margin-bottom: 30px;
 }
 .features-row {
     display: grid;
@@ -185,8 +188,8 @@ width: 80%;
     margin-bottom: 120px;
 }
 .features .feature img {
-    width: 100px;
-    height: 80px;
+    width: 60px;
+    height: 40px;
 }
 @media(max-width: 767px) {
     .features-row {
