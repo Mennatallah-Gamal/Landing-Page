@@ -178,7 +178,7 @@ width: 80%;
 }
 }
 .features .main-heading {
-    margin-top: 70px;
+    margin-top: 65px;
     margin-bottom: 30px;
 }
 .features-row {
@@ -186,6 +186,7 @@ width: 80%;
     gap: 20px;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) ;
     margin-bottom: 150px;
+    margin-top: 30px;
 }
 .features .feature img {
     width: 40px;
