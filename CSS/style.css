@@ -124,7 +124,7 @@ header img{
 article .text {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 140px;
+    margin-bottom: 40px;
     margin-top: 40px;
 }
 @media(max-width: 767px) {
