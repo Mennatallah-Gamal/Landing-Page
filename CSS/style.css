@@ -210,6 +210,9 @@ width: 80%;
     gap: 10px;
     margin-bottom: 50px;
 }
+.logos img {
+    width: 85%;
+}
 @media(max-width: 767px) {
     .logos {
         flex-direction: column;
@@ -221,7 +224,7 @@ width: 80%;
     }
 }
 .container .last-heading  {
-    margin: 140px 0 0;
+    margin: 160px 0 0;
 }
 .container .last-heading  p{
     padding: 0 220px;
