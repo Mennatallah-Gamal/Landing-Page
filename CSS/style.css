@@ -21,6 +21,9 @@ body h2 {
     body h2 {
         font-size: 25px;
     } 
+    body p {
+        font-size: 15px;
+    }
 }
 .container {
     padding-left: 15px ;
@@ -90,14 +93,14 @@ header img{
 }
 @media(max-width: 767px) {
     .container .intro-text h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
     .container .intro-text p{
         padding: 0;
     }
 }
 .download button {
-    padding: 15px 60px;
+    padding: 15px 65px;
     border-radius: 100px;
     border: none;
     color: white;
@@ -154,6 +157,7 @@ article .text img{
     .text .info p{
         text-align: center;
         width: 100%;
+        padding: 0 10px;
     }
 }
 .devices {
@@ -171,7 +175,7 @@ width: 80%;
 }
 .features .main-heading {
     margin-top: 70px;
-    margin-bottom: 40px;
+    margin-bottom: 80px;
 }
 .features-row {
     display: grid;
@@ -190,6 +194,10 @@ width: 80%;
     .features .feature {
         margin-bottom: 50px;
     }
+    .features .feature img {
+        width: 80px;
+        height: 60px;
+    }
 }
 .logos {
     display: flex; 
@@ -203,6 +211,7 @@ width: 80%;
         text-align: center;
     }
     .logos img{
+        width: 200px;
         padding: 30px;
     }
 }
@@ -214,7 +223,7 @@ width: 80%;
 }
 @media(max-width: 767px) {
     .container .last-heading p{
-        padding: 0 ;
+        padding: 0 5px;
     }
 }
 .container .last-download {
