@@ -211,7 +211,7 @@ width: 80%;
     margin-bottom: 50px;
 }
 .logos img {
-    width: 85%;
+    width: 90%;
 }
 @media(max-width: 767px) {
     .logos {
@@ -224,7 +224,7 @@ width: 80%;
     }
 }
 .container .last-heading  {
-    margin: 160px 0 0;
+    margin: 140px 0 0;
 }
 .container .last-heading  p{
     padding: 0 220px;
